@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="67283" started-at="2020-09-25T21:56:10 IST" finished-at="2020-09-25T21:57:18 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="67283" started-at="2020-09-25T21:56:10 IST" finished-at="2020-09-25T21:57:18 IST">
+      <class name="TestCases.HomePageTest">
+        <test-method status="PASS" signature="init()[pri:0, instance:TestCases.HomePageTest@10bbd20a]" name="init" is-config="true" duration-ms="64919" started-at="2020-09-25T21:56:10 IST" finished-at="2020-09-25T21:57:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="LogoTest()[pri:1, instance:TestCases.HomePageTest@10bbd20a]" name="LogoTest" duration-ms="79" started-at="2020-09-25T21:57:15 IST" finished-at="2020-09-25T21:57:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogoTest -->
+        <test-method status="PASS" signature="formClickableTest()[pri:2, instance:TestCases.HomePageTest@10bbd20a]" name="formClickableTest" duration-ms="201" started-at="2020-09-25T21:57:15 IST" finished-at="2020-09-25T21:57:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- formClickableTest -->
+        <test-method status="PASS" signature="DataInputFormTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:3, instance:TestCases.HomePageTest@10bbd20a]" name="DataInputFormTest" duration-ms="542" started-at="2020-09-25T21:57:16 IST" data-provider="testData" finished-at="2020-09-25T21:57:17 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[astonish]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[sar]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[astonishsar@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Female]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[7877845789]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[17-06-1996]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DataInputFormTest -->
+        <test-method status="PASS" signature="DataInputFormTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:3, instance:TestCases.HomePageTest@10bbd20a]" name="DataInputFormTest" duration-ms="559" started-at="2020-09-25T21:57:17 IST" data-provider="testData" finished-at="2020-09-25T21:57:17 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[bethush]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[adhav]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[bethush@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[male]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[7877845790]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[18-05-1997]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DataInputFormTest -->
+        <test-method status="PASS" signature="DataInputFormTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:3, instance:TestCases.HomePageTest@10bbd20a]" name="DataInputFormTest" duration-ms="413" started-at="2020-09-25T21:57:17 IST" data-provider="testData" finished-at="2020-09-25T21:57:18 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[dhuruv]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[dhan]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[dhuruv@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[male]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[9876543210]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[18-07-1989]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DataInputFormTest -->
+        <test-method status="PASS" signature="finish()[pri:0, instance:TestCases.HomePageTest@10bbd20a]" name="finish" is-config="true" duration-ms="83" started-at="2020-09-25T21:57:18 IST" finished-at="2020-09-25T21:57:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finish -->
+      </class> <!-- TestCases.HomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

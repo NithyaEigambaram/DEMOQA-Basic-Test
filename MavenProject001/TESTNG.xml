@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "demoweb">	
+ 	<suite name="DEMOHQ">	
+		<test name="Demo web Test Demo">	
+			
+			<classes>	
+					<class name="TestCases.HomePageTest" />	
+           	</classes>	
+		</test>	
+  </suite>	
