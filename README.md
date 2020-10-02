@@ -1,5 +1,5 @@
 # DEMOQA-Basic-Test
-Framework designed to test simple login functionality using TDD and TESTNG to regulate the execution of tests.
+Framework designed to test simple login functionality of DEMOQA Website using TDD and TESTNG to regulate the execution of tests.
 
 SRC/Main/Java
 BasePoint Package:
